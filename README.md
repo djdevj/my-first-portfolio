@@ -5,6 +5,6 @@ Links have also been provided in the "work" and "contact" sections to help navig
 The page has been set up into 2 separate zones that can continue to be built upon.
 
 ## Deployment Link:
-https://djdevj.github.io/porfolio-one/
+https://djdevj.github.io/my-first-portfolio/
 ## Screenshot
 ![djdevj github io_porfolio-one_](https://user-images.githubusercontent.com/120237391/210043563-ece7cc2d-9fc0-434e-a934-fab214b397ec.png)
